@@ -1,0 +1,29 @@
+07.11.2015 - spotkanie w STX Next
+
+Plan
+
+Opanować Python - gruntownie
+Opanować Django - podstawy
+
+Video - w przypadku programowania są nieefektywne i wymagają załatania wielu dziur. Zbyt długie męczenie przykładów, które nic specjalnego nie pokazują. Na koniec czuje się, że to rozbudowana referencja.
+
+lpthw
+py - reference
+py - cookbook
+
+py - fluent (ew.)
+learn (ew.)
+programming (ew.)
+think (ew.)
+automate (ew.)
+
+Django - learn
+Django - Two Scoops
+
+Django - tutoriale (ew.)
+
+Data Science from Scratch
+Beazley data hack - YT
+
+Dodatkowo:
+lcthw
