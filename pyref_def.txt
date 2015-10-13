@@ -27,3 +27,5 @@ Beazley data hack - YT
 
 Dodatkowo:
 lcthw
+
+sprawdzić: think i interactive
