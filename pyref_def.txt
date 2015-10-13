@@ -14,7 +14,7 @@ py - cookbook
 py - fluent (ew.)
 learn (ew.)
 programming (ew.)
-think (ew.)
+think + interactive (ew.)
 automate (ew.)
 
 Django - learn
@@ -24,8 +24,17 @@ Django - tutoriale (ew.)
 
 Data Science from Scratch
 Beazley data hack - YT
+pyGame
 
 Dodatkowo:
 lcthw
+linux - command + system + python
 
-sprawdzić: think i interactive
+Trzeba to wszystko ogarnąć i szybko przejść do projektu pyDesk.
+Po kolei:
+- dokończyć lpthw
+- think py
+~ dopełnić szczegółami
+- learn django
+- two scoops
+~ baza danych - lsqlthw
