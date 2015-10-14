@@ -35,6 +35,7 @@ Po kolei:
 - dokończyć lpthw
 - think py
 ~ dopełnić szczegółami
-- learn django
-- two scoops
+- yt django
+... - learn django
+... - two scoops
 ~ baza danych - lsqlthw
