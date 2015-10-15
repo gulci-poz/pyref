@@ -3,39 +3,31 @@
 Plan
 
 Opanować Python - gruntownie
-Opanować Django - podstawy
+Opanować Django - gruntownie
 
-Video - w przypadku programowania są nieefektywne i wymagają załatania wielu dziur. Zbyt długie męczenie przykładów, które nic specjalnego nie pokazują. Na koniec czuje się, że to rozbudowana referencja.
+!video - coding for entrepreneurs
+video - o'reilly, infinite skills
+~video - pluralsight, lynda
 
 lpthw
-py - reference
-py - cookbook
+think
 
-py - fluent (ew.)
-learn (ew.)
-programming (ew.)
-think + interactive (ew.)
-automate (ew.)
+~reference
+~cookbook
+~fluent
+~learn
+~programming
+~automate
 
-Django - learn
-Django - Two Scoops
+dj - two scoops -> później
+dj - tutorial oficjalny -> później
+cfe - yt i dalej Udemy
 
-Django - tutoriale (ew.)
+baza danych - lsqlthw
 
-Data Science from Scratch
-Beazley data hack - YT
-pyGame
+~Data Science from Scratch
+~Beazley data hack - YT
 
 Dodatkowo:
 lcthw
 linux - command + system + python
-
-Trzeba to wszystko ogarnąć i szybko przejść do projektu pyDesk.
-Po kolei:
-- dokończyć lpthw
-- think py
-~ dopełnić szczegółami
-- yt django
-... - learn django
-... - two scoops
-~ baza danych - lsqlthw
