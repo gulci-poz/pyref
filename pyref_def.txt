@@ -5,12 +5,14 @@ Plan
 Opanować Python - gruntownie
 Opanować Django - gruntownie
 
-!video - coding for entrepreneurs
+!video - coding for entrepreneurs - yt + udemy; udemy
 video - o'reilly, infinite skills
 ~video - pluralsight, lynda
 
 lpthw
 think
+kozaczko
+lsqlthw - baza danych
 
 ~reference
 ~cookbook
@@ -21,13 +23,14 @@ think
 
 dj - two scoops -> później
 dj - tutorial oficjalny -> później
-cfe - yt i dalej Udemy
-
-baza danych - lsqlthw
+cfe - yt i dalej jego kursy z Udemy; samo Udemy ~
+~ książki Django
 
 ~Data Science from Scratch
 ~Beazley data hack - YT
 
 Dodatkowo:
 lcthw
-linux - command + system + python
+linux - command + system + how works (3 books) + python system (udemy; programming)
+~ regexp
+~ ruby
