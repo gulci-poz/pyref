@@ -25,6 +25,7 @@ dj - two scoops -> później
 dj - tutorial oficjalny -> później
 cfe - yt i dalej jego kursy z Udemy; samo Udemy ~
 ~ książki Django
+TDD + yt - Harry Percival
 
 ~Data Science from Scratch
 ~Beazley data hack - YT
@@ -34,3 +35,4 @@ lcthw
 linux - command + system + how works (3 books) + python system (udemy; programming)
 ~ regexp
 ~ ruby
+~ weirdJs + Angular
