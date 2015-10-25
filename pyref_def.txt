@@ -24,7 +24,12 @@ lsqlthw - baza danych
 dj - two scoops -> później
 dj - tutorial oficjalny -> później
 cfe - yt i dalej jego kurs z Udemy
-~ udemy - kurs dj
+
+~ udemy
+  - kurs dj (jedna sekcja)
+  - system administration
+  - web programming + bardzo duży kanał sentdex
+
 ~ książki Django
 TDD + yt - Harry Percival
 
