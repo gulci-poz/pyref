@@ -4,6 +4,7 @@ Plan
 
 Opanować Python - gruntownie
 Opanować Django - gruntownie
+Flask
 
 !video - coding for entrepreneurs - yt + udemy; udemy
 video - o'reilly, infinite skills
