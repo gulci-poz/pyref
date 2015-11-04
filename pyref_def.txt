@@ -4,42 +4,40 @@ Plan
 
 Opanować Python - gruntownie
 Opanować Django - gruntownie
-Flask
+Opanować Flask - gruntownie
 
-!video - coding for entrepreneurs - yt + udemy; udemy
-video - o'reilly, infinite skills
-~video - pluralsight, lynda
+video - coding for entrepreneurs - yt + udemy
+video - udemy
+video - jeff knupp - idiomatic
 
 lpthw
 think
-kozaczko
-lsqlthw - baza danych
 
-~reference
-~cookbook
-~fluent
-~learn
-~programming
-~automate
+kozaczko + django
+django tdd - harry percival
+flask - miguel grinberg
+
+fluent python
+automate boring stuff
+object oriented
+
+introducing python
+web scraping
+mysql and mariadb
 
 dj - two scoops -> później
 dj - tutorial oficjalny -> później
-cfe - yt i dalej jego kurs z Udemy
 
 ~ udemy
   - kurs dj (jedna sekcja)
   - system administration
   - web programming + bardzo duży kanał sentdex
 
-~ książki Django
-TDD + yt - Harry Percival
-
 ~Data Science from Scratch
 ~Beazley data hack - YT
 
 Dodatkowo:
 lcthw
-linux - command + system + how works (3 books) + python system (udemy; programming)
+linux - command + system + how works (3 books) + python system programming
 ~ regexp
-~ ruby
 ~ weirdJs + Angular
