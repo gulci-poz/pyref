@@ -17,6 +17,11 @@ kozaczko + django
 django tdd - harry percival
 flask - miguel grinberg
 
+tdd
+functional
+high performance x 2
+twisted
+
 fluent python
 automate boring stuff
 object oriented
