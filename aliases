@@ -1,0 +1,6 @@
+alias python=python3
+alias rma="rm -fRI"
+alias voila="clear ; ls"
+alias voilaa="clear ; ls -a"
+alias gopy="cd ~/projects/py_projects"
+alias edbash="gedit ~/.bashrc"

@@ -1,5 +1,3 @@
-07.11.2015 - spotkanie w STX Next
-
 Plan
 
 Opanować Python - gruntownie
@@ -13,8 +11,8 @@ video - jeff knupp - idiomatic
 lpthw
 think
 
-kozaczko + django
-django tdd - harry percival
+django kozaczko
+django percival + book
 flask - miguel grinberg
 
 tdd
@@ -39,10 +37,18 @@ dj - tutorial oficjalny -> później
   - web programming + bardzo duży kanał sentdex
 
 ~Data Science from Scratch
+~social data (book with vagrant)
 ~Beazley data hack - YT
 
 Dodatkowo:
 lcthw
 linux - command + system + how works (3 books) + python system programming
 ~ regexp
-~ weirdJs + Angular
+
+-> weirdJs
+-> weirdAngular
+-> eloquentJs
+-> howToJs
+-> mean
+
+zrobić review rzeczy do nauczenia, kierunek: python + javascript
